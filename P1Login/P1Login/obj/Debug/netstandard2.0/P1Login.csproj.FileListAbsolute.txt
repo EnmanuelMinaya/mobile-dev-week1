@@ -1,0 +1,13 @@
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\bin\Debug\netstandard2.0\P1Login.deps.json
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\bin\Debug\netstandard2.0\P1Login.dll
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\bin\Debug\netstandard2.0\ref\P1Login.dll
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\bin\Debug\netstandard2.0\P1Login.pdb
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\P1Login.csprojAssemblyReference.cache
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\P1Login.AssemblyInfoInputs.cache
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\P1Login.AssemblyInfo.cs
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\P1Login.dll
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\ref\P1Login.dll
+C:\Users\enman\source\repos\P1Login\P1Login\P1Login\obj\Debug\netstandard2.0\P1Login.pdb

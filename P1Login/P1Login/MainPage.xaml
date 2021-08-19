@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="P1Login.MainPage">
+
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height ="Auto" />
+                <RowDefinition Height ="*" />
+                <RowDefinition Height ="Auto" />
+            </Grid.RowDefinitions>
+
+            <Image Grid.Row="0" Source="ic_launcher"  Margin="20,50,0,20" />
+
+            <StackLayout Grid.Row="1" Padding="30,20">
+
+                <Entry x:Name="UsernameEntry" Placeholder="User" HorizontalOptions="FillAndExpand"/>
+                <Label x:Name="EmptyUsername" Text="This field cannot be empty" TextColor="Red" IsVisible="False" />
+
+                <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True"  HorizontalOptions="FillAndExpand" />
+                <Label x:Name="EmptyPassword" Text="This field cannot be empty"  TextColor="Red" IsVisible="False"/>
+
+
+                <Button Text="log in" Clicked="OnButtonClicked"/>
+
+
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>
